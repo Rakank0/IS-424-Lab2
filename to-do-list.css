@@ -4,9 +4,12 @@ div{
     Width: 500px;
     Text-size: 30px;
     Border: 1px solid Blue;
-    Background-Color: #YELLOW;
+    Background-Color: #f7f381;
     box-shadow: 0 0 10px 2px #333333;
-    
+    IS424 CHange 6
+IS424 CHange 6
+IS424 CHange 6
+
 
 }
 ol{
@@ -14,5 +17,5 @@ ol{
 }
 p{
   position: relative;  
-  left: 3000px;
+  left: 150px;
 }
